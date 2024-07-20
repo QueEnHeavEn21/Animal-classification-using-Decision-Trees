@@ -6,7 +6,7 @@ Welcome to the Animal Classification project using decision trees! This reposito
 
 - *GitHub_Assignment.ipynb*: This is the core Jupyter notebook where you'll find the entire implementation of the decision tree model. The notebook includes data loading, preprocessing, model training, evaluation, and visualization.
 - *animals.csv*: This dataset includes various features of animals that are used for classification.
-- *vertebrate.csv*: An additional dataset focusing on vertebrate animals with specific features relevant to classification.
+- *vertebrate(4).csv*: An additional dataset focusing on vertebrate animals with specific features relevant to classification.
 
 ## How to Get Started
 
