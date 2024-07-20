@@ -20,7 +20,7 @@ To run this project, you'll need:
 
 1. *Clone the Repository*: First, clone this repository to your local machine.
    bash
-   git clone https://github.com/QueEnHeavEn21/animal-classification-decision-trees.git
+   git clone https://github.com/QueEnHeavEn21/Animal-classification-using-Decision-Trees.git
    
 
 2. *Upload to Google Drive*: Once cloned, upload the repository to your Google Drive.
